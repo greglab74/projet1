@@ -1,5 +1,5 @@
-h1, p {
-  font-family: 'Roboto' ;
+h1, p, a, small {
+  font-family: 'Roboto', 'sans-serif' ;
 }
 h1 {
 
@@ -53,6 +53,7 @@ footer {
 }
 footer small {
     margin-right: 15px;
+    color:white;
 }
 
 .image  img{
